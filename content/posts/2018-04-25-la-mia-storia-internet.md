@@ -17,7 +17,6 @@ tags:
 - open web
 ---
 
-![la-mia-storia-internet](/images/vault/la-mia-storia-internet.png)
 
 La mia storia con internet è cominciata da qualche parte negli Anni 90, in un internet cafè di Trastevere, a Roma. Eravamo in 6-8 compagni di scuola, davanti a un monitor 14’’, e non avevamo idea di che cosa scrivere nel box di ricerca. Ricordo che mi toccò l’onore della digitazione per due motivi: uno, avevo un computer in casa; due, perché qualche tempo prima, a casa dell’amico di un’amico “che ci capiva”, avevo visto comparire dopo una lunga attesa l’immagine di uno di quei manga un po’ porno che popolavano già gli scaffali della sua libreria. Insomma, io ero quello che sapeva. In realtà, a Trastevere scoprimmo poco e niente, tanto che il sabato successivo investimmo i nostri risparmi con maggior soddisfazione in una sala biliardo.
 

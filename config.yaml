@@ -8,7 +8,7 @@ params:
     logo_img: images/logo.png
     has_nav: true
   footer:
-    content: '&copy; All rights reserved.'
+    content: 'Some rights reserved.'
     links:
       - text: 2020
         url: 'https://www.stackbit.com'

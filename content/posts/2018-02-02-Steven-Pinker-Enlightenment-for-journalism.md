@@ -17,8 +17,6 @@ tags:
 - Enlightenment
 ---
 
-![pinker](/images/vault/pinker.jpg)
-
 [Steven Pinker](https://en.wikipedia.org/wiki/Steven_Pinker)'s latest fatigue, [Enlightment Now](https://www.penguinrandomhouse.com/books/317051/enlightenment-now-by-steven-pinker/9780525427575/), has already been tagged like the book everyone has to read - well - now. His big sponsor is a guy named [Bill Gates](https://qz.com/1192746/bill-gates-book-recommendation-steven-pinkers-enlightenment-now/) and actually Pinker has a few bullets in his belt. 
 
 The book's central idea is that we tend to forget the forces of progress the world has experienced, because our natural pessimism is reinforced every day by politics, media and viral false-beliefs.
