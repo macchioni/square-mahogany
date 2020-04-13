@@ -14,13 +14,6 @@ layout: page
 ---
 <br/>
 
-![Grazia](/images/Grazia14.jpg)
-
-## [Ricevi Grazia gratis per tre mesi](https://www.abbonamenti.it/r33213?check=B919D1DE5ACB810623E74B7489FC86E3&codiceOmaggio=203167150DCF80D6) 
-
----
-<br/>
-
 ![Alberto Arbasino](/images/vault/arbasino.jpg)
 
 ## [Quando Alberto Arbasino mi disse che ero come suo padre - e avevo solo 17 anni](https://macchioni.cc/blog/2020-03-23-arbasino-mekong-stroncatura/)
