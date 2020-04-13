@@ -1,7 +1,7 @@
 // Font.
 $font: (
-  primary: ("PT Sans", sans-serif),
-  secondary: ("PT Serif", serif)
+  primary: ('Inter', sans-serif),
+  secondary: ('Merriweather', serif)
 );
 
 // Palette.
@@ -14,8 +14,9 @@ $palette: (
   accent:        #3cb464,
   accent-blue:   #108afb,
   accent-black:  #323232,
-  accent-red:    #a51c30
-);
+  accent-red:    #ed4740,
+  accent-orange: #ff6600
+  );
 
 @import "imports/functions";
 
