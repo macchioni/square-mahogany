@@ -11,7 +11,7 @@ params:
     content: 'Some rights reserved.'
     links:
       - text: 2020
-        url: 'https://www.stackbit.com'
+        url: 'https://www.google.com'
         new_window: true
     has_social: true
 disableKinds:
