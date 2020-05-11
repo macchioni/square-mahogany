@@ -16,24 +16,24 @@ layout: page
 
 ![Alberto Arbasino](/images/vault/arbasino.jpg)
 
-## [Quando Alberto Arbasino mi disse che ero come suo padre - e avevo solo 17 anni](https://macchioni.cc/blog/2020-03-23-arbasino-mekong-stroncatura/)
+## [Quando Alberto Arbasino mi disse che ero come suo padre - e avevo solo 17 anni](https://macchioni.cc/posts/2020-03-23-arbasino-mekong-stroncatura/)
 
 ---
 <br/>
 
 ![noma](/images/vault/aoutnoma.jpg)
 
-## [How Noma's Seafood Menu can change you forever](https://macchioni.cc/blog/2020-02-02-noma-seafood-menu-2020-can-change-you/)
+## [How Noma's Seafood Menu can change you forever](https://macchioni.cc/posts/2020-02-02-noma-seafood-menu-2020-can-change-you/)
 ---
 <br/>
 
 ![verena](/images/vault/verena.jpg)
 
-## [I miei 5 libri per iniziare l'anno](https://macchioni.cc/blog/2019-12-28-cinque-libri-leggere-2019/)
+## [I miei 5 libri per iniziare l'anno](https://macchioni.cc/posts/2019-12-28-cinque-libri-leggere-2019/)
 
 ---
 <br/>
 
-![open-web](/images/vault/own.jpg)
+![pinker](/images/vault/pinker.jpg)
 
-## [Why We Need an Open Web](https://macchioni.cc/open-web/)
+## [What Steven Pinker's Enlightenment Now can teach to journalism](https://macchioni.cc/posts/2018-02-02-steven-pinker-enlightenment-for-journalism/)
