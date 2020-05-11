@@ -15,6 +15,5 @@ params:
         new_window: true
     has_social: true
 disableKinds:
-  - RSS
   - taxonomy
   - taxonomyTerm
