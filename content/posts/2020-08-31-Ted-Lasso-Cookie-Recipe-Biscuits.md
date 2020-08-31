@@ -1,7 +1,7 @@
 ---
 author: Piero Macchioni
 date: 2020-08-31
-title: The Ted Lasso's Cookies Secret Recipe
+title: Ted Lasso's Cookies Secret Recipe
 description: I might have found the recipe of the awesome Ted Lasso's sheet pan cookies you see in the show. Bake and tell me.
 excerpt: >-
   I might have found the recipe of the awesome Ted Lasso's sheet pan cookies you see in the show. Basically a shortbread added with rice flour. Bake and tell me.
@@ -35,16 +35,16 @@ Basically we’re gonna make a Buttery Sheet Pan Shortbread that you have to coo
 
 ##### Ingredients
 
-250 gr white granulated sugar
-565 gr salted butter
-200 gr (organic) rice flour
-480 gr all-purpose flour (Type 00)
-2 tbs coarse brown sugar
-<br>
-Rectangular Sheet Pan (about 17x12 in.)
-Parchment paper
-Your favorite bowl
-Patience
+* 250 gr white granulated sugar
+* 565 gr salted butter
+* 200 gr (organic) rice flour
+* 480 gr all-purpose flour (Type 00)
+* 2 tbs coarse brown sugar
+<br />
+* Rectangular Sheet Pan (about 17x12 in.)
+* Parchment paper
+* Your favorite bowl
+* Patience
 
 -----
 
@@ -55,22 +55,22 @@ Patience
 Preheat your oven to 140° C (about 270 ° F; yes, that low).
 <br>
 
-If you have a stand mixer beat butter and sugar until fluffy. If you have not, forget the vitamin or the immersion-blender: get a wooden spoon and prepare to have your right arm like The Rock’s.
+1. If you have a stand mixer beat butter and sugar until fluffy. If you have not, forget the vitamin or the immersion-blender: get a wooden spoon and prepare to have your right arm like The Rock’s.
 <br>
 
-Mix in the rice flour, beat gently and gradually add the flour. Oh, God: have you used plain butter instead of salted butter? No prob, now you sprinkle 5 grams of salt in the magic bowl.
+2. Mix in the rice flour, beat gently and gradually add the flour. Oh, God: have you used plain butter instead of salted butter? No prob, now you sprinkle 5 grams of salt in the magic bowl.
 <br>
 
-Use your hands am quickly make a whithe-y dough, lightly sandy. Resist and do not eat it raw.
+3. Use your hands am quickly make a whithe-y dough, lightly sandy. Resist and do not eat it raw.
 <br>
 
-Parchment paper on your baking sheet, dough inside (height about 1-1,5 cm) and get ready for the first bake: 60 minutes, not right below the grill, give your baby some space.
+4. Parchment paper on your baking sheet, dough inside (height about 1-1,5 cm) and get ready for the first bake: 60 minutes, not right below the grill, give your baby some space.
 <br>
 
-Second bake: bring the heat to 120° C (about 250° F), cover your mega biscuit with a layer of parchment paper and let it go for another 20 minutes.
+5. Second bake: bring the heat to 120° C (about 250° F), cover your mega biscuit with a layer of parchment paper and let it go for another 20 minutes.
 <br>
 
-Out of the oven: the cookie surface is cooked but not burned, sprinkle it with brown sugar and let cool (actually we’re hoping the sugar somehow sticks to the surface) for about 2 minutes. Then get the thinnest sharpest knife you have and cut the biscuits in harmonic rectangular shapes of your choice.
+6. Out of the oven: the cookie surface is cooked but not burned, sprinkle it with brown sugar and let cool (actually we’re hoping the sugar somehow sticks to the surface) for about 2 minutes. Then get the thinnest sharpest knife you have and cut the biscuits in harmonic rectangular shapes of your choice.
 <br>
 
 Let them cool for a longer time, this time, get back and enjoy. You scored them right if you have not rawish dough in the middle.
