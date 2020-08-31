@@ -12,9 +12,9 @@ layout: page
 
 <br/>
 
-![facciamoci sentire](/images/facciamocisentire.jpeg)
+![Ted Lasso](/images/vault/Ted_Lasso_tea.jpg)
 
-## [Un anno di abbonamento digitale a Grazia](https://www.abbonamenti.it/vincolata/r30106?check=FF1F1BE276FB1F2E1CCEA3BEF5258E06&codiceOmaggio=6CCD539167B60D0E)
+## [Ted Lasso's Cookies Secret Recipe](https://macchioni.cc/posts/2020-08-31-ted-lasso-cookie-recipe-biscuits/)
 
 ---
 <br/>
