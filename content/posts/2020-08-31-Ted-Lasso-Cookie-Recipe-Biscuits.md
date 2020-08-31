@@ -18,7 +18,7 @@ tags:
 
 If you’ve been watching one of the first five episodes of [Ted Lasso](https://en.wikipedia.org/wiki/Ted_Lasso), maybe you’ve been wondering what kind of biscuits he’s baking for his boss (portrayed by the gorgeous Hannah Waddingham). Because she really seems to like them.
 
-![Mekong](/images/vault/fckme.jpg)
+![Good cookie](/images/vault/fckme.jpg)
 
 Ted Lasso is a funny Apple TV+ show starring Jason Sudekis as a mustached American football coach, recruited to manage an English Premier League team. He has zero experience with the European football, but he’s great at coaching thanks to his positive candor and his sense of community.
 
@@ -26,7 +26,7 @@ Waddingham - as Rebecca Welton, the owner of  AFC Richmond - is obsessed with t
 
 Can’t assure those are 100% the Lasso’s, but you can bake that in your own sheet pan and see. Follow the coach.
 
-![Mekong](/images/vault/cooking.jpg)
+![Lasso in the kitchen](/images/vault/cooking.jpg)
 
 ### The Recipe
 Basically we’re gonna make a Buttery Sheet Pan Shortbread that you have to cook super slowly for more than an hour. Then cut while hot, like Italian biscotti/cantucci, then sprinkle with sugar and finally let cool.
@@ -48,7 +48,7 @@ Patience
 
 -----
 
-![Mekong](/images/vault/baking.jpg)
+![Bake it](/images/vault/baking.jpg)
 
 
 ##### Bake with Lasso!
@@ -73,7 +73,9 @@ Second bake: bring the heat to 120° C (about 250° F), cover your mega biscuit 
 Out of the oven: the cookie surface is cooked but not burned, sprinkle it with brown sugar and let cool (actually we’re hoping the sugar somehow sticks to the surface) for about 2 minutes. Then get the thinnest sharpest knife you have and cut the biscuits in harmonic rectangular shapes of your choice.
 <br>
 
-Let them cool for a longer time, this time, get back and enjoy. You scored them right if you have not rawish dough in the middle. 
+Let them cool for a longer time, this time, get back and enjoy. You scored them right if you have not rawish dough in the middle.
 <br>
+
+![Box of cookies](/images/vault/scatola.jpg)
 
 _Remember: any two bites, one is pure saturated fat. Apparently, that’s the Lasso way (yes, shortbreads are Scottish)_ ⚽︎
