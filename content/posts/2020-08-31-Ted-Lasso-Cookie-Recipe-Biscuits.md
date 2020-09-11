@@ -55,7 +55,7 @@ Basically we’re gonna make a Buttery Sheet Pan Shortbread that you have to coo
 Preheat your oven to 140° C (about 270 ° F; yes, that low).
 <br>
 
-1. If you have a stand mixer beat butter and sugar until fluffy. If you have not, forget the vitamin or the immersion-blender: get a wooden spoon and prepare to have your right arm like The Rock’s.
+1. If you have a stand mixer beat butter and sugar until fluffy. If you have not, forget the Vitamix or any immersion-blender: get a wooden spoon and prepare to have your right arm like the one The Rock shows to people.
 <br>
 
 2. Mix in the rice flour, beat gently and gradually add the flour. Oh, God: have you used plain butter instead of salted butter? No prob, now you sprinkle 5 grams of salt in the magic bowl.
@@ -70,10 +70,10 @@ Preheat your oven to 140° C (about 270 ° F; yes, that low).
 5. Second bake: bring the heat to 120° C (about 250° F), cover your mega biscuit with a layer of parchment paper and let it go for another 20 minutes.
 <br>
 
-6. Out of the oven: the cookie surface is cooked but not burned, sprinkle it with brown sugar and let cool (actually we’re hoping the sugar somehow sticks to the surface) for about 2 minutes. Then get the thinnest sharpest knife you have and cut the biscuits in harmonic rectangular shapes of your choice.
+6. Out of the oven: the cookie surface is cooked but not burned, sprinkle it with brown sugar and let cool for about 2 minutes (now you’re hoping the sugar somehow sticks to the surface). Then get the thinnest sharpest knife you have and cut the biscuits in harmonic rectangular shapes of your choice.
 <br>
 
-Let them cool for a longer time, this time, get back and enjoy. You scored them right if you have not rawish dough in the middle.
+Let them cool for a longer time, get back and enjoy. You scored them right if you have not rawish dough in the middle.
 <br>
 
 ![Box of cookies](/images/vault/scatola.jpg)
