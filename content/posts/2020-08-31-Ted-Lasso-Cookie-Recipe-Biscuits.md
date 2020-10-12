@@ -97,7 +97,6 @@ Can’t assure those are 100% the Lasso’s, but you can bake that in your own s
 ### The Recipe
 Basically we’re gonna make a Buttery Sheet Pan Shortbread that you have to cook super slowly for more than an hour. Then cut while hot, like Italian biscotti/cantucci, then sprinkle with sugar and finally let cool.
 
------
 
 ##### Ingredients
 
