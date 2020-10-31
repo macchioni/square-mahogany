@@ -22,9 +22,9 @@ layout: page
 <div class="emailoctopus-form-wrapper emailoctopus-form-default emailoctopus-form-wrapper-medium"
      style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, Verdana, sans-serif; color: rgb(26, 26, 26);"
 >
-  <h2 class="emailoctopus-heading">
-    By the way, I run a free indie  food newsletter. Wanna join?
-  </h2>
+  <h3 class="emailoctopus-heading">
+    Secret Breakfast is an exclusive food loving newsletter. Prime food for thought, crunchy angles, no mainstream junk. We are gonna find together the missing ingredients that umami our existence in new and dangerous ways.
+  </h3>
   <p class="emailoctopus-success-message">
   </p>
   <p class="emailoctopus-error-message">
