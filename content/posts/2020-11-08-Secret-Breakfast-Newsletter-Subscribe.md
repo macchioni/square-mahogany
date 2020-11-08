@@ -1,32 +1,27 @@
 ---
 author: Piero Macchioni
-date: 2020-08-31
-title: Ted Lasso's Cookies Secret Recipe
-description: I might have found the recipe of the awesome Ted Lasso's sheet pan cookies you see in the show. Bake and tell me.
+date: 2020-11-08
+title: Secret Breakfast is my food newsletter
+description: Secret Breakfast is a food-centered weekly newsletter by Piero Macchioni. Prime food for thought and crunchy angles that umami our existence in new and dangerous ways.
 excerpt: >-
-  I might have found the recipe of the awesome Ted Lasso's sheet pan cookies you see in the show. Basically a shortbread added with rice flour. Bake and tell me.
-thumb_img_path: images/vault/Ted_Lasso_tea.jpg
-content_img_path: images/vault/Ted_Lasso_tea.jpg
+  Subscribe to my exclusive food loving newsletter. Prime food for thought, crunchy angles, no mainstream junk.
+thumb_img_path: images/vault/faviconbasepng.png
+content_img_path: images/vault/faviconbasepng.png
 layout: post
 published: true
 categories:
-- recipe
+- newsletter
 tags:
-- Ted Lasso
-- cookies
+- food
+- restaurant
+- hospitality
 ---
 
-If you’ve been watching one of the first five episodes of [Ted Lasso](https://en.wikipedia.org/wiki/Ted_Lasso), maybe you’ve been wondering what kind of biscuits he’s baking for his boss (portrayed by the gorgeous Hannah Waddingham). Because she really seems to like them.
+I started a  newsletter about food called [Secret Breakfast](https://secretbreakfast.club/posts/subscribe). Every week you’ll receive prime food for thought, discover the missing ingredients in your daily life, nibble the crunchy angles that umami our existence in new and dangerous ways.
 
-![Good cookie](/images/vault/fckme.jpg)
 
-Ted Lasso is a funny Apple TV+ show starring Jason Sudekis as a mustached American football coach, recruited to manage an English Premier League team. He has zero experience with the European football, but he’s great at coaching thanks to his positive candor and his sense of community.
+![Secret Breakfast](/images/vault/secret-breakfast-logo.png)
 
-Waddingham - as Rebecca Welton, the owner of  AFC Richmond - is obsessed with the cookies Lasso brings her any morning as an excuse to talk with her. And she tries to discover where he gets those delicacies. Anyway, I tried to get a recipe to get something like the cookies we see in a couple of frames of the show.
-
-Can’t assure those are 100% the Lasso’s, but you can bake that in your own sheet pan and see. Follow the coach.
-
-![Lasso in the kitchen](/images/vault/cooking.jpg)
 
 ---
 
