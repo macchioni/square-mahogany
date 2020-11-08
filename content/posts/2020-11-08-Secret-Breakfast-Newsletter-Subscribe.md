@@ -29,7 +29,7 @@ I started a  newsletter about food called [Secret Breakfast](https://secretbreak
      style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, Verdana, sans-serif; color: rgb(26, 26, 26);"
 >
   <h3 class="emailoctopus-heading">
-    By the way, I run a free indie  food newsletter. Wanna join?
+    Try my newsletter
   </h3>
   <p class="emailoctopus-success-message">
   </p>
