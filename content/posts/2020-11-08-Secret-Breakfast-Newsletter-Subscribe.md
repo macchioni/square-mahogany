@@ -5,8 +5,8 @@ title: Secret Breakfast is my food newsletter
 description: Secret Breakfast is a food-centered weekly newsletter by Piero Macchioni. Prime food for thought and crunchy angles that umami our existence in new and dangerous ways.
 excerpt: >-
   Subscribe to my exclusive food loving newsletter. Prime food for thought, crunchy angles, no mainstream junk.
-thumb_img_path: images/vault/faviconbasepng.png
-content_img_path: images/vault/faviconbasepng.png
+thumb_img_path: images/vault/secret-breakfast-logo.png
+content_img_path: images/vault/secret-breakfast-logo.png
 layout: post
 published: true
 categories:
@@ -18,9 +18,6 @@ tags:
 ---
 
 I started a  newsletter about food called [Secret Breakfast](https://secretbreakfast.club/posts/subscribe). Every week you’ll receive prime food for thought, discover the missing ingredients in your daily life, nibble the crunchy angles that umami our existence in new and dangerous ways.
-
-
-![Secret Breakfast](/images/vault/secret-breakfast-logo.png)
 
 
 ---
