@@ -20,7 +20,7 @@ If you’ve been watching one of the first five episodes of [Ted Lasso](https://
 
 ![Good cookie](/images/vault/fckme.jpg)
 
-Ted Lasso is a funny Apple TV+ show starring Jason Sudekis as a mustached American football coach, recruited to manage an English Premier League team. He has zero experience with the European football, but he’s great at coaching thanks to his positive candor and his sense of community.
+Ted Lasso is a funny Apple TV+ show starring Jason Sudeikis as a mustached American football coach, recruited to manage an English Premier League team. He has zero experience with the European football, but he’s great at coaching thanks to his positive candor and his sense of community.
 
 Waddingham - as Rebecca Welton, the owner of  AFC Richmond - is obsessed with the cookies Lasso brings her any morning as an excuse to talk with her. And she tries to discover where he gets those delicacies. Anyway, I tried to get a recipe to get something like the cookies we see in a couple of frames of the show.
 
