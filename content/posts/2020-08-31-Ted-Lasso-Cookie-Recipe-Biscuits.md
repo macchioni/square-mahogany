@@ -39,7 +39,7 @@ Can’t assure those are 100% the Lasso’s, but you can bake that in your own s
 <div id="mc_embed_signup">
 <form action="https://club.us1.list-manage.com/subscribe/post?u=f3a2dbee491ca226a10089937&amp;id=2a9d02f1f7" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
-  <h2>Subscribe</h2>
+  <h2>By the way, I run a free indie food newsletter. Wanna join?</h2>
 <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
 <div class="mc-field-group">
   <label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
