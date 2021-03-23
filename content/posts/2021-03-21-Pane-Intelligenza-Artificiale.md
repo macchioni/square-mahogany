@@ -5,8 +5,8 @@ title: Quando l'intelligenza artificiale farà anche il pane
 description: Il machine learning viene già applicato alla panificazione. Che cosa perderemo quando le macchine impareranno la nostra ricetta più antica? Il mio pezzo per la rivista L'Integrale.
 excerpt: >-
   Il machine learning viene già applicato alla panificazione. Che cosa perderemo quando le macchine impareranno la nostra ricetta più antica? Il mio pezzo per la rivista L'Integrale.
-thumb_img_path: images/vault/integrale.jpg
-content_img_path: images/vault/integrale.jpg
+thumb_img_path: images/vault/integrale2.jpg
+content_img_path: images/vault/integrale2.jpg
 layout: post
 published: true
 categories:
@@ -20,7 +20,7 @@ tags:
 
 [L'Integrale](https://lintegralerivista.it) è una rivista di pane e cultura. Sul [numero 2](https://lintegralerivista.it/prodotto/lintegrale-numero-2/) ho raccontato il tentativo di addestrare le macchine a creare l'impasto perfetto, o per lo meno a creare nuovi impasti da sole. Che cosa ci guadagnamo? Quanto potremmo invece perdere?
 
-![integrale-indice](/images/vault/integrale-indice.jpg)
+![integrale-indice](/images/vault/integrale-indice2.jpg)
 
 È un pezzo lungo in cui trovate pane, biscotti, ma anche un pezzo di [Westworld](https://it.wikipedia.org/wiki/Westworld_-_Dove_tutto_è_concesso) e [la mia sequenza preferita di Person of Interest](https://www.youtube.com/watch?v=KFj3MBmFU7Q). Comincia così. 
 
