@@ -1,7 +1,7 @@
 ---
 author: Piero Macchioni
 date: 2021-03-18
-title: Massimo Bottura: come rendere visibile l'invisibile
+title: Massimo Bottura, come rendere visibile l'invisibile
 description: Ho chiesto al grande chef Massimo Bottura, dell'Osteria Francescana di Modena, come potremo rinascere dopo la pandemia. Questo è ciò che mi ha detto.
 excerpt: >-
   Ho chiesto al grande chef Massimo Bottura, dell'Osteria Francescana di Modena, come potremo rinascere dopo la pandemia. Questo è ciò che mi ha detto.
