@@ -27,7 +27,7 @@ tags:
 <blockquote>Un giorno qualche supercomputer governerà le nostre vite. Assegnerà un valore alle nostre esistenze. Distribuirà i compiti da svolgere. Ci dirà dove, come e con chi vivere. Deciderà che cosa mangeremo. Non lo farà con cattiveria, ma con razionalità. E questo dovrebbe un po’ preoccuparci: metterà in forno una pita turca gonfia e incandescente, per compiacere i nostri sensi? O un pane scuro e umidiccio a base di farina di ortotteri, per garantirci un efficiente nutrimento? La risposta a queste domande dipende molto da ciò che questa grande macchina avrà imparato in un momento cruciale della storia. Quel momento è adesso.</blockquote>
 
 
-PS: il pezzo finanzia integralmente il mio progetto no profit, in questo caso l'[Opera San Francesco per i Poveri](https://operasanfrancesco.it).
+PS: il pezzo finanzia integralmente il mio progetto non profit, in questo caso l'[Opera San Francesco per i Poveri](https://operasanfrancesco.it).
 
 PPS: se l'amore per la buona tavola ti porta a fare cose assurde come scrivere pezzi sul pane e l'intelligenza artificiale, forse può interressarti la mia newsletter [Secret Breakfast](https://secretbreakfast.club).
 
