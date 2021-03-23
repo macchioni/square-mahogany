@@ -5,8 +5,8 @@ title: Quando l'intelligenza artificiale farà anche il pane
 description: Il machine learning viene già applicato alla panificazione. Che cosa perderemo quando le macchine impareranno la nostra ricetta più antica? Il mio pezzo per la rivista L'Integrale.
 excerpt: >-
   Il machine learning viene già applicato alla panificazione. Che cosa perderemo quando le macchine impareranno la nostra ricetta più antica? Il mio pezzo per la rivista L'Integrale.
-thumb_img_path: images/vault/integrale.png
-content_img_path: images/vault/integrale.png
+thumb_img_path: images/vault/integrale.jpg
+content_img_path: images/vault/integrale.jpg
 layout: post
 published: true
 categories:
@@ -22,10 +22,9 @@ tags:
 
 ![integrale-indice](/images/vault/integrale-indice.jpg)
 
-È un pezzo lungo in cui trovate pane, biscotti, ma anche un pezzo di [Westworld](https://it.wikipedia.org/wiki/Westworld_-_Dove_tutto_è_concesso) e [la mia sequenza preferita di Person of Interest](https://www.youtube.com/watch?v=KFj3MBmFU7Q). Inizia così. 
+È un pezzo lungo in cui trovate pane, biscotti, ma anche un pezzo di [Westworld](https://it.wikipedia.org/wiki/Westworld_-_Dove_tutto_è_concesso) e [la mia sequenza preferita di Person of Interest](https://www.youtube.com/watch?v=KFj3MBmFU7Q). Comincia così. 
 
->Un giorno qualche supercomputer governerà le nostre vite. Assegnerà un valore alle nostre esistenze. Distribuirà i compiti da svolgere. Ci dirà dove, come e con chi vivere. Deciderà che cosa mangeremo. Non lo farà con cattiveria, ma con razionalità. E questo dovrebbe un po’ preoccuparci: metterà in forno una pita turca gonfia e incandescente, per compiacere i nostri sensi? O un pane scuro e umidiccio a base di farina di ortotteri, per garantirci un efficiente nutrimento? La risposta a queste domande dipende molto da ciò che questa grande macchina avrà imparato in un momento cruciale della storia. 
-Quel momento è adesso. 
+<blockquote>Un giorno qualche supercomputer governerà le nostre vite. Assegnerà un valore alle nostre esistenze. Distribuirà i compiti da svolgere. Ci dirà dove, come e con chi vivere. Deciderà che cosa mangeremo. Non lo farà con cattiveria, ma con razionalità. E questo dovrebbe un po’ preoccuparci: metterà in forno una pita turca gonfia e incandescente, per compiacere i nostri sensi? O un pane scuro e umidiccio a base di farina di ortotteri, per garantirci un efficiente nutrimento? La risposta a queste domande dipende molto da ciò che questa grande macchina avrà imparato in un momento cruciale della storia. Quel momento è adesso.</blockquote>
 
 
 PS: il pezzo finanzia integralmente il mio progetto no profit, in questo caso l'[Opera San Francesco per i Poveri](https://operasanfrancesco.it).
