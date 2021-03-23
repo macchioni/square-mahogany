@@ -18,7 +18,7 @@ tags:
 - bread
 ---
 
-[L'Integrale](https://lintegralerivista.it) è una rivista di pane e cultura. Sul [numero 2](https://lintegralerivista.it/prodotto/lintegrale-numero-2/) ho raccontato il tentativo di addestrare le macchine a creare l'impasto perfetto, o per lo meno a creare nuovi impasti da sole. Che cosa ci guadagnamo? Quanto potremmo invece perdere?
+[L'Integrale](https://lintegralerivista.it) è una rivista di pane e cultura. Sul [numero 2](https://lintegralerivista.it/prodotto/lintegrale-numero-2/) ho raccontato il tentativo di addestrare le macchine a creare l'impasto perfetto, o per lo meno a creare nuovi impasti da sole. Che vantaggi avremmo? Quanto potremmo invece perdere?
 
 ![integrale-indice](/images/vault/integrale-indice2.jpg)
 
