@@ -17,7 +17,7 @@ tags:
 - hospitality
 ---
 
-I started a  newsletter about food called [Secret Breakfast](https://secretbreakfast.club/posts/subscribe). Every week you’ll receive prime food for thought, discover the missing ingredients in your daily life, nibble the crunchy angles that umami our existence in new and dangerous ways.
+I started a  newsletter about food called [Secret Breakfast](https://secret-breakfast-newsletter.mailchimpsites.com/). Every week you’ll receive prime food for thought, discover the missing ingredients in your daily life, nibble the crunchy angles that umami our existence in new and dangerous ways.
 
 
 ---
