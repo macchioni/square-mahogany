@@ -38,7 +38,8 @@ One:
 Two.
 
 >«I’m up in the middle of the night, thinking about the risk we’re taking abandoning dishes that once defined us».
-Reinventing is risky, but if you're creative, you cannot be defined only by what you did in the past.
+
+**Reinventing is risky, but if you're creative, you cannot be defined only by what you did in the past.**
 
 
 *PS:* fancy some [Eleven Madison Park Granola](https://www.chiceats.com/recipe/emp-cookbook-vegetarian/eleven-madison-parks-granola)? 
