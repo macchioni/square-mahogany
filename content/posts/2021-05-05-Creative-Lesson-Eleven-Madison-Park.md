@@ -23,7 +23,7 @@ One episode is dedicated to the renovation of Eleven Maidson Park, the highly ac
 
 The ducks were destined to become the lavender honey-glazed signature dish by chef Daniel Humm.
 
-![](images/vault/duck.jpg)
+![Lavender duck](https://macchioni.cc/images/vault/duck.jpg)
 
 #### Things they change, my friend
 
