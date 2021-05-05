@@ -5,8 +5,8 @@ title: What a creative can learn from Eleven Madison Park going vegan
 description: Chef Daniel Humm reopened its New York restaurant with a plant-based menu. This risk can be inspiration for many people.
 excerpt: >-
   Chef Daniel Humm reopened its New York restaurant with a plant-based menu. This risk can be inspiration for many people.
-thumb_img_path: images/vault/ducks.png
-content_img_path: images/vault/ducks.png
+thumb_img_path: images/vault/ducks.jpg
+content_img_path: images/vault/ducks.jpg
 layout: post
 published: true
 categories:
