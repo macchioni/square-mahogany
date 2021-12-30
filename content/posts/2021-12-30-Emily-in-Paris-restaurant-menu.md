@@ -17,7 +17,7 @@ tags:
 - Netflix
 ---
 
-Tv show [Emily in Paris](https://en.wikipedia.org/wiki/Emily_in_Paris) has a lot of food in it. Much of the action happens aroud a fancy bistrot run by sexy chef Gabriel. In Season 1 it was named "Les deux compères", in Season 2 he partners with a french entrepreneur and the place is now called "Chez Lavaux". 
+Tv show [Emily in Paris](https://en.wikipedia.org/wiki/Emily_in_Paris) has a lot of food in it. Much of the action happens aroud a fancy bistrot run by sexy chef Gabriel. In Season 1 it was named "Les deux compères", in Season 2 he partners with a french entrepreneur and the place is now called [Chez Lavaux](https://emilyinparis.fandom.com/wiki/Chez_Lavaux), located in [18 Rue des Fossés Saint-Jacques](https://www.atlasofwonders.com/2020/10/emily-in-paris-locations.html).
 
 In episode 7 we can have a glimpse of the menu. We can't see the desserts and a couple of prices, but hey, thank God, because a dish like "Tripe de la Normandie" runs at about 36 dollars. Enjoy!
 
