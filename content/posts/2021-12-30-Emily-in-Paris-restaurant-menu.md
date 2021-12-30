@@ -1,10 +1,10 @@
 ---
 author: Piero Macchioni
 date: 2021-12-30
-title: Emily in Paris' restaurant menu
+title: Emily in Paris’ restaurant menu
 description: What is served at Chez Lavaux, Emily in Paris restaurant run by sexy chef Gabriel.
 excerpt: >-
-  What is served at Chez Lavaux, Emily in Paris restaurant run by sexy chef Gabriel.
+  What is served at Chez Lavaux, Emily in Paris’ restaurant run by sexy chef Gabriel.
 thumb_img_path: images/vault/chez.jpg
 content_img_path: images/vault/chez.jpg
 layout: post
@@ -69,7 +69,7 @@ Chicken Fricassée with Tomatoes and Riz Pilaf.
 <div id="mc_embed_signup">
 <form action="https://club.us1.list-manage.com/subscribe/post?u=f3a2dbee491ca226a10089937&amp;id=2a9d02f1f7" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
-  <h2>Join my food newsletter</h2>
+  <h3>Join <a href="https://www.secretbreakfast.club/">Secret Breakfast</a>, my food newsletter</h3><p>Prime food for thought, crunchy angles, smart recipes. We are gonna find together the missing ingredients that umami our existence in new and dangerous ways.</p>
 <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
 <div class="mc-field-group">
   <label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
