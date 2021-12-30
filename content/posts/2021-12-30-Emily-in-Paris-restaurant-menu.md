@@ -21,7 +21,7 @@ Tv show [Emily in Paris](https://en.wikipedia.org/wiki/Emily_in_Paris) has a lot
 
 In episode 7 we can have a glimpse of the menu. We can't see the desserts and a couple of prices, but hey, thank God, because a dish like "Tripe de la Normandie" runs at about 36 dollars. Enjoy!
 
-![Chez](https://macchioni.cc/images/vault/chez.jpg)
+![Gabriel's menu](https://macchioni.cc/images/vault/gabriel-menu.png)
 
 #### MENU DÉGUSTATION  - 58 eur
 
@@ -34,9 +34,6 @@ Green Vegetable Gnocchi with Chanterelles Mushrooms, and Sage Butter
 Assorted Cheeses (7 eur)
 
 Paris-Brest à la myrtille
-
-
-![Gabriel's menu](https://macchioni.cc/images/vault/gabriel-menu.png)
 
 
 #### À LA CARTE
